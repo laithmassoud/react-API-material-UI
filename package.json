@@ -12,7 +12,6 @@
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4",
     "react-swipeable-views": "^0.12.13",
-    "dotenv": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
