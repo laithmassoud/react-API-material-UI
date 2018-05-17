@@ -7,8 +7,7 @@ import purple from '@material-ui/core/colors/purple';
 require('dotenv').config();
 
 
-const key = process.env.REACT_APP_MY_KEY
-const url = `https://api.themoviedb.org/3/list/1?api_key=${key}`
+const url = `https://api.themoviedb.org/3/list/1?api_key=3a0cbf9940d1293a374eecbee93a9070`
 
 
 class App extends Component {
